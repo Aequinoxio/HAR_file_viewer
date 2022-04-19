@@ -351,7 +351,7 @@ public class MainForm implements UIUpdateCallBack {
     }
 
     public static void main(String[] args) {
-        JFrame frame = new JFrame("MainForm");
+        JFrame frame = new JFrame("Har image parser and save");
         frame.setContentPane(new MainForm().MainPanel);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
