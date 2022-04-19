@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HAR_file_viewer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HAR_file_viewer_jar</output-path>
+    <root id="archive" name="HAR_file_viewer.jar">
+      <element id="module-output" name="HAR_file_viewer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/json/javax.json-api/1.1.4/javax.json-api-1.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/glassfish/javax.json/1.1.4/javax.json-1.1.4.jar" path-in-jar="/" />
+      <element id="library" level="project" name="glassfish.javax.json" />
+      <element id="library" level="project" name="javax.json.api" />
+      <element id="file-copy" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" />
+    </root>
+  </artifact>
+</component>
